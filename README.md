@@ -21,18 +21,16 @@ El script interactivo permite ejecutar las siguientes opciones:
 1. Clona el repositorio:
    ```bash
    git clone <url-del-repositorio>
-   ```
 
 2. Da permisos de ejecución a los scripts si aún no los tienen:
    ```bash
    chmod +x <ruta-a-los-scripts>/ejercicio2.sh
    chmod +x <ruta-a-los-scripts>/ejercicio3.sh
-   ```
+   
 
 3. Ejecuta el script principal:
-   ```bash
+     bash
    bash <ruta-al-script-principal>/script_principal.sh
-   ```
 
 ## Uso
 
