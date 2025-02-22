@@ -1,4 +1,4 @@
-```markdown
+markdown
 # Menú Interactivo para Ejecutar Scripts en Bash
 
 Este repositorio contiene un script en **Bash** que presenta un menú interactivo para ejecutar diferentes tareas automatizadas. A través de este menú, el usuario puede seleccionar entre varias opciones para ejecutar scripts previamente definidos, como la creación y ordenación de archivos.
