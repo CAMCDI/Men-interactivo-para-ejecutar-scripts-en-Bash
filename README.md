@@ -46,7 +46,3 @@ Selecciona una opcion:
 ## Contribuciones
 
 Si deseas contribuir a este proyecto, por favor crea un **fork** del repositorio y envía un **pull request** con tus cambios.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
