@@ -42,7 +42,3 @@ Selecciona una opcion:
 2- ordenar archivos
 3- salir
 ```
-
-## Contribuciones
-
-Si deseas contribuir a este proyecto, por favor crea un **fork** del repositorio y envía un **pull request** con tus cambios.
