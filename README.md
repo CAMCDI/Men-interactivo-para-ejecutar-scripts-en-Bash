@@ -20,7 +20,7 @@ El script interactivo permite ejecutar las siguientes opciones:
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/CAMCDI/Men-interactivo-para-ejecutar-scripts-en-Bash.git>
 
 2. Da permisos de ejecución a los scripts si aún no los tienen:
    ```bash
